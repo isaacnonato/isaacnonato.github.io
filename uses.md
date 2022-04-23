@@ -4,7 +4,7 @@ title:Uses
 permalink: /uses/
 ---
 [< back to home](/) <br>
-This is my uses page for [uses.tech](https://uses.tech/). The purpose of this page is basically to show my tools and hardware.
+This is my uses page. The purpose of this page is basically to show my tools and hardware.
 
 ## Devices
 
@@ -13,7 +13,8 @@ This is my uses page for [uses.tech](https://uses.tech/). The purpose of this pa
 * Lenovo IdeaPad S145
 * CPU: Ryzen 5 3500U
 * OS: Arch Linux
-* Window Manager: i3wm
+* Window Manager: i3wm <br> <br>
+![Desktop image](/resources/2022-04-23_13-24.png "My desktop")
 
 `riga`
 
