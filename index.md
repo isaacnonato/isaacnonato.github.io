@@ -18,4 +18,5 @@ Hello, my name is Isaac Nonato and I am a software developer. Currently I'm grad
 <summary>Contact options</summary>
 * ``nonatoisaac@mailfence.com`` - If you want to hire me, send me an e-mail! (encrypted)
 * ``Vulpes#1045`` - My Discord, if you want to chat casually.
+* ``curl https://isaacnonato.github.io/key.asc | gpg --import`` - PGP key.
 </details>

@@ -32,7 +32,7 @@ This is my uses page. The purpose of this page is basically to show my tools and
     - Font: [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) 
     - Theme: [onedark.nvim](https://github.com/navarasu/onedark.nvim)
 * Shell: [zsh](https://github.com/zsh-users/zsh)
-* Browser: Mozilla Firefox (probably going to switch to [Librewolf](https://librewolf.net/) soon, [see why](https://youtu.be/EoF7tkrILt0))
+* Browser: [Librewolf](https://librewolf.net/) 
 * Terminal emulator: [kitty](https://github.com/kovidgoyal/kitty)
 * Photo editor: [gimp](https://www.gimp.org/)
 * Video player: [mpv](https://github.com/mpv-player/mpv)
