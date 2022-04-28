@@ -5,7 +5,7 @@ title: Welcome to my hub!
 
 # A brief introduction
 
-Hello, my name is Isaac Nonato and I am a software developer. Currently I'm graduating in Computer Science at the [Federal University of ABC](https://en.wikipedia.org/wiki/Federal_University_of_ABC). If you want to know more about my skills and work experience, try visiting the [/experience](/experience) page. Also check out my [/uses](/uses) page.
+Hello, my name is Isaac Nonato and I am a software developer in internet privacy and functional programming. Currently I'm graduating in Science and Technology at the great [Federal University of ABC](https://en.wikipedia.org/wiki/Federal_University_of_ABC). If you want to know more about my skills and work experience, try visiting the [/experience](/experience) page. Also check out my [/uses](/uses) page.
 
 <details markdown="1">
 <summary>My devices</summary>
@@ -18,5 +18,6 @@ Hello, my name is Isaac Nonato and I am a software developer. Currently I'm grad
 <summary>Contact options</summary>
 * ``nonatoisaac@mailfence.com`` - If you want to hire me, send me an e-mail! (encrypted)
 * ``Vulpes#1045`` - My Discord, if you want to chat casually.
-* ``curl https://isaacnonato.github.io/key.asc | gpg --import`` - PGP key.
+* If you want my PGP key, just open a terminal and type: <br>
+  ``curl https://isaacnonato.github.io/key.asc | gpg --import``
 </details>
